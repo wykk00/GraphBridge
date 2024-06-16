@@ -37,8 +37,7 @@ CUDA_VISIBLE_DEVICES=0 python train_reduction.py --dataset cora --reduction_lm_t
 ### Language models training
 
 ```
-CUDA_VISIBLE_DEVICES=0 python train_lm.py --dataset cora --reduction_lm_type roberta-bas
-ea --lm_type roberta-base --use_reduction --lr 5e-5 --epochs 4 --runs 1 --walk_steps 16 --batch_size 12
+CUDA_VISIBLE_DEVICES=0 python train_lm.py --dataset cora --reduction_lm_type roberta-base --lm_type roberta-base --use_reduction --lr 5e-5 --epochs 4 --runs 1 --walk_steps 16 --batch_size 12
 ```
 
 ### GNNs training
