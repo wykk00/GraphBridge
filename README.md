@@ -4,7 +4,7 @@
 
 Yaoke Wang*, Yun Zhu*, Wenqiao Zhang†, Yueting Zhuang, Yunfei Li, Siliang Tang
 
-In EMNLP (Main) 2024
+In **EMNLP 2024 Main**
 
 ## Overview
 
