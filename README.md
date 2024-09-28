@@ -1,5 +1,10 @@
 # Bridging Local Details and Global Context in Text-Attributed Graphs
 
+**Official implementation of paper**  <br>[Bridging Local Details and Global Context in Text-Attributed Graphs](https://arxiv.org/abs/2406.12608) <br>
+
+Yaoke Wang*, Yun Zhu*, Wenqiao Zhang†, Yueting Zhuang, Yunfei Li, Siliang Tang
+In EMNLP (Main) 2024
+
 ## Overview
 
 We propose GraphBridge, which seamlessly integrates both local and global perspectives through incorporating contextual textual information. A graph-aware token reduction module is used to maintain scalability and efficiency.
